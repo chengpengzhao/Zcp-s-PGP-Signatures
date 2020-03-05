@@ -1,5 +1,5 @@
 # How to prove my identity ?
-As we all know, the internet is a complicated place. **No** texts that transmitted to you from the other end of the Internet can be guaranteed where they actually come from. And as an ordinary person, *Zcp* of course could not prove that all the texts are indeed from his **free will** either. Viruses, hackers, pressure from outside forces...are also likely to post information on his behalf.  
+As we all know, the internet is a complicated place. **No** texts that transmitted to you from the other end of the Internet **can** be guaranteed where they actually come from. And as an ordinary person, *Zcp* of course could not prove that all the texts are indeed from his **free will** either. Viruses, hackers, pressure from outside forces...are also likely to post information on his behalf.  
 <br><br>
 
 To solve this problem, **I announce** here, 
@@ -17,7 +17,7 @@ I'll sign every file using my **PGP private key**, and share **the only trustabl
 - Public Key
 [Zcp's PGP keys](./Zcp_PGP.pub)
 
-**Notice that I haven't and will not upload my PGP keys to any key server, so if you found my PGP keys on any other places, it must be done by other people**
+**Notice that I haven't and will not upload my PGP keys to any key servers, so if you found my PGP keys on any other key servers, just don't trust it**
 
 ## Usage
 
@@ -79,4 +79,13 @@ gpg: 已损坏的签名，来自于 xxxx
     2. Declaration of withdrawal of certain statements made by myself;
     3. Other things that can be related to personal dignity or reputation.
 
-If statements that belong to the above but are **not digitally signed**, or that such signatures cannot be verified, are **invalid**.
+If statements that belong to the above but are **not digitally signed**, or that such signatures **cannot be verified**, they are all **invalid**.
+
+# Keybase
+
+I use `keybase` to claim the ownership of my Github account、website、social medias...  
+This is [My keybase page](https://keybase.io/jiyotomare)  
+<br><br>
+I signed these files, anyone is able to check it using my public key:  
+1. [Website owner claim](https://chengpengzhao.com/keybase.txt)
+2. [Github account owner claim](https://gist.githubusercontent.com/chengpengzhao/83713a386be8e899bd5e21885cc55d7c/raw/945767da7d719e1252f5cae9e7114de1e28b30fc/keybase.md)
